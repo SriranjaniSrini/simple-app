@@ -17,12 +17,17 @@ h1 {
 
 }
 
-.pokemon_list_item {
+.pokemon-list {
     font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 700px;
     margin: 0 auto;
+    
+}
 
+.pokemon-list > *{
+    margin: 20px;
+    
 }
 
 .header_item {
