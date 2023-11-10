@@ -1,0 +1,30 @@
+h1 {
+    background-color: rgb(30, 2, 132);
+    font-weight: bold;
+    color: rgb(246, 242, 29);
+    text-align: center;
+}
+
+.text {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pokemons {
+    max-width: 700px;
+    margin: 0 auto;
+
+}
+
+.pokemon_list_item {
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+
+}
+
+.header_item {
+    text-align: center;
+}
